@@ -1,0 +1,15 @@
+{
+  "name": "paper-dashboard-2",
+  "description": "Bootstrap 4 Paper Design",
+  "version": "2.0.1",
+  "author": "Creative Tim",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-install": "^1.1.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-open": "^3.0.1"
+  }
+}
